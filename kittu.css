@@ -1,0 +1,70 @@
+h1{
+    text-align :center;
+}
+p{
+    text-align: center;
+}
+h2{
+    text-align:center;
+}
+.Postimage{
+    width:500px;
+    height:500 px;
+    margin:0 400px;
+}
+div#container {
+    border-width: 6px;
+    border-color: rgb(132, 21, 21);
+    border-style:dashed;
+    border: 10 px dashed rgb(105, 28, 28);
+    text-align: center;
+  }
+  main {
+    display: flex;
+    justify-content: space-between;
+}
+
+main section {
+    border: 5px solid rgb(35, 35, 51);
+    display: inline-block;
+    width: 30%;
+    box-sizing: border-box; 
+    padding: 10px; 
+}
+
+main section:nth-of-type(2) {
+    border-color: rgb(61, 49, 49)(67, 51, 51);
+    width: 20%;
+}
+div#container {
+    
+    padding: 5% auto;
+      margin: 5% auto;
+      background-color:grey;
+    
+    
+    }
+    div#container {
+        width: 75%;
+      
+      }
+      .main-header{
+        background-color: rgb(62, 82, 113);
+        text-align: center;
+        padding: 10px;
+        border-radius: 50px;
+    }
+    li a{
+        color:white;
+        padding: 0 10px;
+    }
+    nav a{
+        text-decoration:none;
+    }
+    nav ul{
+        list-style:none;
+    
+    }
+    nav li{
+        display:inline;
+    }
